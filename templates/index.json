@@ -1,0 +1,317 @@
+{
+  "sections": {
+    "image-with-text": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Convey A Sense of Elegance",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We do have several stylish and modish interior design models that match your tastes. We want to <em><strong>convey a sense of elegance<\/strong><\/em> to you.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "https:\/\/northern-home-deco-suite.myshopify.com\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-max-vakhtbovych-6538903.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "padding_top": 24,
+        "padding_bottom": 40
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured Collections",
+        "heading_size": "h2",
+        "collection": "winter-sea",
+        "products_to_show": 5,
+        "columns_desktop": 5,
+        "color_scheme": "accent-2",
+        "show_view_all": true,
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 52,
+        "padding_bottom": 40
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/diy-organic-candle.jpg",
+            "heading": "A SENSE OF ELEGANCE, MYSTRY, EXCITEMENT",
+            "heading_size": "h1",
+            "subheading": "We Convey Storys Through The Decor.",
+            "button_label": "New Promo",
+            "link": "https:\/\/northern-home-deco-suite.myshopify.com\/collections\/all",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 40,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "2776585d-42e5-4d04-9275-3e37770c87eb": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/livingroom-rainbows.jpg",
+            "heading": "Wouldn't You Like To Feel Refresh?",
+            "heading_size": "h1",
+            "subheading": "We Have Been Waiting For You!",
+            "button_label": "New Promo",
+            "link": "https:\/\/northern-home-deco-suite.myshopify.com\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 40,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "cd0d4a25-da63-41a7-aaa3-c6bc1c803c33": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/gas-cooking-range-in-a-large-home-kitchen.jpg",
+            "heading": "We Know What You Have In Mind.",
+            "heading_size": "h1",
+            "subheading": "Don't You Want To Hear How We Know?",
+            "button_label": "New Promo",
+            "link": "https:\/\/northern-home-deco-suite.myshopify.com\/collections\/all",
+            "button_style_secondary": true,
+            "box_align": "middle-right",
+            "show_text_box": false,
+            "text_alignment": "right",
+            "image_overlay_opacity": 30,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide",
+        "2776585d-42e5-4d04-9275-3e37770c87eb",
+        "cd0d4a25-da63-41a7-aaa3-c6bc1c803c33"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Convey A Sense of Elegance"
+      }
+    },
+    "collection-list": {
+      "type": "collection-list",
+      "blocks": {
+        "collection-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "summers-coming"
+          }
+        },
+        "collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "winter-sea"
+          }
+        },
+        "1db45961-cad5-4cfc-80c2-63779054452a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cozy-spring"
+          }
+        }
+      },
+      "block_order": [
+        "collection-0",
+        "collection-2",
+        "collection-1",
+        "1db45961-cad5-4cfc-80c2-63779054452a"
+      ],
+      "settings": {
+        "title": "Our Collections",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 80,
+        "padding_bottom": 32
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "Vendor | Desired Decor",
+            "text_style": "body"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "text-subtitle": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}Desired Decor | Ocean Painting Canvas",
+            "text_style": "body"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant-picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "dropdown"
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_button": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "text-subtitle",
+        "price",
+        "variant-picker",
+        "quantity-selector",
+        "buy_button"
+      ],
+      "settings": {
+        "product": "wrapped-ocean-canvas",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-max-vakhtbovych-6438745.jpg",
+            "title": "Winter Sea",
+            "text": "<p>\"I'm in love with the kitchen's interior design. It was completed quickly and flawlessly. When I cook, I constantly refresh myself. !\"<\/p><p>- Sarah<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-max-vakhtbovych-7060810.jpg",
+            "title": "Cozy Spring",
+            "text": "<p>\"It was a fantastic experience to collaborate on the design of the room with the Desired Decor agency. I adore the interior I created with them!\"<\/p><p>- Robert<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/pexels-max-vakhtbovych-7031714.jpg",
+            "title": "Fall's Rainbow",
+            "text": "<p>\"I fell in love with my interior design.<br\/>It's warm, lovely, and reasonably priced. If I want to change the interior again, I'd like to contact Desired Decor.\"<\/p><p>- Mark<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-1",
+        "column-2",
+        "column-3"
+      ],
+      "settings": {
+        "title": "Testimonials",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    }
+  },
+  "order": [
+    "image-with-text",
+    "featured_collection",
+    "slideshow",
+    "collection-list",
+    "featured-product",
+    "multicolumn"
+  ]
+}
